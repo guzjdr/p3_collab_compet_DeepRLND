@@ -15,7 +15,7 @@ Train a TD3 Agent(s) to learn an optimal policy that maximizes the expected retu
 
 Unity Tennis Environment - Used to train an agent to solve the task described above. The main idea is to train a set of agents to learn to play table tennis within this environment. 
 
-<b>**Unity Reacher Multi-Agent-Environment**</cebnter>
+<b>**Unity Tennis Environment**</cebnter>
 
 ![alt text][image1] 
 
