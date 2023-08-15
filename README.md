@@ -1,5 +1,5 @@
 [//]: # (Image References)
-"Multi_Agent_Training"
+[image1]: data_files/Tennis_Court.png 
 
 # Project3: Collaboration and Competition ( Deep RL NanoDegree )
 
@@ -7,12 +7,17 @@ This repository contains material related to Udacity's [Deep Reinforcement Learn
 
 ## Project Description
 
-TBD
+Train a TD3 Agent(s) to learn an optimal policy that maximizes the expected return ( score ) while playing table tennis. 
 
 
 ## Environment
 
-TBD
+
+Unity Tennis Environment - Used to train an agent to solve the task described above. The main idea is to train a set of agents to learn to play table tennis within this environment. 
+
+<b>**Unity Reacher Multi-Agent-Environment**</cebnter>
+
+![alt text][image1] 
 
 
 
